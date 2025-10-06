@@ -1,4 +1,5 @@
 # faz o l
 # bom dia
 
-rtx 5090 de 2gb de vram
+- placa mãe:b650m jginyue snow dream
+- processador:r7 7700x
